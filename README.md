@@ -2,4 +2,5 @@
 
 this is backend for todo-mern for online todo
 with rest
-in future with graphQl ...son
+#important
+Expand it until the near future stops to learn new things
